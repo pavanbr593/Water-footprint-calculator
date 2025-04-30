@@ -1,4 +1,5 @@
-🌾💧 Water Footprint Calculator
+🌾💧 Water Footprint Calculator :
+
 1) The Water Footprint Calculator is a multi-language web application that helps users estimate the water footprint of various agricultural and final products.
 2) It accounts for region-specific multipliers for accurate and localized calculations. 
 3) Developed using Streamlit, it provides an intuitive interface and supports multiple Indian languages.
