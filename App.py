@@ -15,6 +15,7 @@ translations = {
         "final_products": ["Bottled Orange Juice", "Cooked Rice", "Steamed Tomato", "Canned Beans"],
         "calculate": "Calculate",
         "error_message": "Please enter all fields with valid values.",
+    
     },
     "hi": {
         "title": "🌾💧 जल पदचिह्न कैलकुलेटर",
